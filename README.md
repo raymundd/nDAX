@@ -1,4 +1,4 @@
-NOTE: THIS IS A FORK and may be broken as a play around with it.
+NOTE: THIS IS A FORK and may be broken as I play around with it.
 
 ## Table of Contents
 
